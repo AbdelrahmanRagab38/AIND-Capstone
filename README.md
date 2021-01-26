@@ -1,5 +1,4 @@
-#### Udacity Artificial Intelligence Nanodegree
-### Term 2: Capstone Project
+#### Udacity Deep Learning  Nanodegree
 # Machine Translation with RNNs
 
 ##### &nbsp;
